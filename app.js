@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
 
-    // credits : AGHOST
+    // credits : Rian Agustino
 
     const mywindow = document.querySelector('#mywindow');
     const vid = document.getElementById("myVideo");
