@@ -5,23 +5,23 @@
 
 @font-face {
   font-family: rochester;
-  src: url(/assets/font/rochester.ttf);
+  src: url(rochester.ttf);
 }
 
 @font-face {
   font-family: rocksalt;
-  src: url(/assets/font/rocksalt.ttf);
+  src: url(rocksalt.ttf);
 }
 
 @font-face {
   font-family: poppins;
-  src: url(/assets/font/poppins.ttf);
+  src: url(poppins.ttf);
 }
 
 .main {
     height: 100vh;
     width: 100%;
-    background-image: url(../img/mainbg.jpg);
+    background-image: url(..mainbg.jpg);
     background-size: cover;
     background-position: center;
 }
